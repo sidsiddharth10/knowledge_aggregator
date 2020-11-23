@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser iws.ipynb
+web: voila --port=$PORT --no-browser iws2.ipynb
